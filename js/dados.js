@@ -100,7 +100,7 @@ var MENU = {
     },
     {
       id: "guys-caliente-margaritas-for-12",
-      img: "./img/cardapio/bebidas/BISTECA SUÍNA.jpeg",
+      img: "./img/cardapio/bebidas/BISTECA SUINA.jpeg",
       name: "Bisteca Suína",
       dsc: "Bisteca de porco, arroz, feijão, fritas e salada",
       price: 22.9,
